@@ -18,10 +18,6 @@ Ce document regroupe plusieurs projets Java illustrant des concepts fondamentaux
 
 ## 📂 Project Structure
 - projets
-- ├── TP2/
-- │   └── src/
-- │  ----└── Tableau/
-- │    -----------└── Tableau.java
 - ├── Triangle/
 - │   └── src/
 - │       ----└── triangle/
