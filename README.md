@@ -9,7 +9,7 @@ Ce document regroupe plusieurs projets Java illustrant des concepts fondamentaux
 
 - Affichage graphique en console
 
-- Algorithmes classiques : LIS, rotation, fenêtre glissante
+- Algorithmes : rotation, fenêtre glissante
 
 - Calculs numériques et séries
 
@@ -103,26 +103,33 @@ Pour chaque fenêtre de taille k, affiche le nombre d’éléments distincts
 
 ### somme :
 pour n = 5
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/55cec60f-a0c7-4118-9e43-bb5755b1cfed" />
 pour n = 25
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/f6f1aa85-178c-4e7d-8fa5-70b5d63787a0" />
 ### Triangle:
 pour n = 5:
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/3bc2487a-e693-4e66-afb9-7ba4ff066491" />
 pour n = 10:
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/140a7190-5385-4555-ac77-44923db41284" />
 ### TableauCarrés :
 pour n = 5 :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/81ab708c-921c-49f3-b042-572ae38afdfb" />
 pour n = 8 :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/55ed3ece-ecbd-4fee-818c-4b4d8f5e61e2" />
 ### Tableaux de Tableaux :
 - input :
 ```
 double[][] t1 = { { 1.0, 2.0, 3.0 }, { 4.0, 5.0, 6.0 }, };
 double[][] t2 = { { 7.0, 8.0, 9.0 }, { 10.0, 11.0, 12.0 } };
-double[] t3 = Matrice.sommeLigne(t1);
 ```
 - output :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/76a3253d-19fd-4898-b5a3-18d8f58bd685" />
 
 ### RotationMatrice :
 pour n = 2 :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/9b0c7fe8-ca8a-4b4a-bacc-ac1d743014ec" />
 pour n = 4 :
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/a7d8ebc7-da14-4d33-a4a0-7d9ab761f921" />
 ### FenetreGlaissante :
 pour n = 8 et k = 4 :
 - input : 
@@ -130,6 +137,7 @@ pour n = 8 et k = 4 :
 1 2 2 3 2 1 4 2
 ```
 - output :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/c0b18342-0c3e-4e5c-84d4-308173984686" />
 ## 💡 Concepts Practiced
 
 - Boucles imbriquées et logique de comparaison
